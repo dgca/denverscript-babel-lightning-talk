@@ -10,6 +10,16 @@ by Dan Cortes
 
 ---
 
+## Video recording!
+
+Are you looking at the repo but you missed the talk?
+
+[Watch it here!](https://www.youtube.com/watch?v=TpdvHpWgwgg&t=3235s)
+
+Starts at 54 minutes, but watch the whole thing, and big shoutout to the other speakers <3
+
+---
+
 ## Audience poll
 
 - Raise your hand if you've used Babel
