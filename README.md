@@ -34,7 +34,7 @@ A generic multi-purpose compiler for JavaScript
 ## Babel plugins in a nutshell
 
 - A plugin is a function that gets called with the current state of the abstract syntax tree (AST)
-- The plugin can return a whole different AST, or the same AST with modifications (a "visitor")
+- The plugin can return a whole different AST, or the same AST with modifications
 
 ---
 
